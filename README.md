@@ -1,2 +1,2 @@
 # Shift-calendar
-SCHEDULE
+Shift-calendar
